@@ -1,3 +1,3 @@
 module github.com/marwan-at-work/testA
 
-go 1.15
+go 1.16
